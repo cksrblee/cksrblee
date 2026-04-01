@@ -15,12 +15,12 @@
 
 I am an AI/SW Engineer and Researcher passionate about building scalable AI architectures and bridging the representational gap between 3D spaces and foundational models. 
 
-- [cite_start]🎓 **Education:** Pursuing an M.S. in Computer Science (AI) at the **University of Southern California (USC)**[cite: 4].
-- [cite_start]🔬 **Current Research:** VLM Researcher at USC Integrated Media Systems Center, focusing on **3D Scene Graph Verbalization** and fine-tuning VLMs for geospatial detection[cite: 10, 12, 26, 27].
-- [cite_start]💼 **Experience:** Formerly an AI Engineer at **Nestyle Intelligence Inc.**[cite: 14], where I spearheaded an industry-academia joint AI project with **KAIST** (Advised by Prof. Jaegul Choo).
-- [cite_start]🚀 **Impact:** - Architected a hierarchical RAG-integrated multi-agent pipeline (Planner-Scripter-Reviewer) processing **1M+ tokens** for consistent narrative generation.
-  - [cite_start]Optimized LLM operational costs by **50%** for 10K+ daily requests through systematic prompt engineering and fine-tuning.
-- [cite_start]🏆 **Award:** Winner of the **International Personal Air Vehicle Tech Contest 2022** for designing a vision-based autonomous landing system for fixed-wing VTOL drones.
+- 🎓 **Education:** Pursuing an M.S. in Computer Science (AI) at the **University of Southern California (USC)**.
+- 🔬 **Current Research:** VLM Researcher at USC Integrated Media Systems Center, focusing on **3D Scene Graph Verbalization** and fine-tuning VLMs for geospatial detection.
+- 💼 **Experience:** Formerly an AI Engineer at **Nestyle Intelligence Inc.**, where I spearheaded an industry-academia joint AI project with **KAIST** (Advised by Prof. Jaegul Choo).
+- 🚀 **Impact:** - Architected a hierarchical RAG-integrated multi-agent pipeline (Planner-Scripter-Reviewer) processing **1M+ tokens** for consistent narrative generation.
+  - Optimized LLM operational costs by **50%** for 10K+ daily requests through systematic prompt engineering and fine-tuning.
+- 🏆 **Award:** Winner of the **International Personal Air Vehicle Tech Contest 2022** for designing a vision-based autonomous landing system for fixed-wing VTOL drones.
 
 <br/>
 
