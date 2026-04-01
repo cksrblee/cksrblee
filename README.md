@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋, I'm Changyu Lee</h1>
   <h3>AI/SW Engineer | M.S. in CS (AI) @ USC | Multi-Agent Systems & VLMs</h3>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_URL](https://www.linkedin.com/in/changyu-lee/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:clee1806@usc.edu">
